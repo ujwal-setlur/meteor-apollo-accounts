@@ -2,7 +2,7 @@
 
 Package.describe({
   name: 'ujwal:apollo-accounts',
-  version: '3.2.4',
+  version: '3.3.0',
   // Brief, one-line summary of the package.
   summary: 'Meteor accounts in GraphQL',
   // URL to the Git repository containing the source code for this package.
