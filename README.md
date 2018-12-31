@@ -9,7 +9,7 @@ This package exposes Meteor Accounts functionality in GraphQL.
 ### Install on Meteor server
 
 ```sh
-meteor add cultofcoders:apollo-accounts
+meteor add ujwal:apollo-accounts
 ```
 
 Initialize the package.
